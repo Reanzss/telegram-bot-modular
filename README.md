@@ -8,7 +8,6 @@ Telegram grupları ve kanalları için hazır, özelleştirilebilir bot altyapı
 - 🛡️ **Grup yönetimi:** Hoş geldin mesajı, link engelleme, ban / atma
 - 📊 **Aktivite:** En aktif üyeler ve grup istatistikleri
 
-Modüller `.env` dosyasından açılıp kapatılabilir. Her müşterinin ihtiyacına göre özelleştirilir.
 
 ## Kurulum
 1. `pip install -r requirements.txt`
